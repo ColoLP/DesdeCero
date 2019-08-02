@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombre>Lucas</nombre>
+    <apellido>Galetti</apellido>
+    <correo-electronico>lucas.galetti1991@gmail.com</correo-electronico>
+</persona>
+
+<!-- Aca va la movida de la factura-->
+
+
+<factura fecha="1495-21-119" id="124">
+    <cliente>
+        <nombre>Carlos Vergatieza</nombre>
+        <telefono>348957684920</telefono>
+    </cliente>
+    
+    <articulos id="10">
+        <descripcion>Factura de venta</descripcion>
+        <precio-unitario>20</precio-unitario>
+        <precio-final>50</precio-final>
+        <cantidad>1</cantidad>
+    </articulos>
+    <precio-total>50</precio-total>
+</factura>
